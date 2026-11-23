@@ -1,39 +1,36 @@
-# Bonjour, je suis Fatou Fall
+## Fatou Fall · Développeuse web & mobile, spécialisation IA
 
-Développeuse d'applications web et mobile, en spécialisation **intelligence artificielle** à la Sonatel Academy (promo P1 IA).
-Je construis des applications qui intègrent l'IA : agents, API, voix et analyse de données.
+Je conçois des applications qui intègrent l'intelligence artificielle : agents outillés, API back-end et interfaces vocales.
+Formation IA à la Sonatel Academy · Licence en développement d'applications web et mobile (Université Cheikh Hamidou Kane).
 
-## Ce que je fais
+---
 
-- **Agents IA** : outils, serveurs MCP, évaluation de la fiabilité d'un agent
-- **Back-end** : API REST avec FastAPI et PostgreSQL, authentification JWT
-- **IA vocale** : transcription (Whisper), recherche sémantique, synthèse vocale
-- **Développement web et mobile** : [technologies de ta licence]
+### Agents IA
 
-## Stack
+**[Sama Kër Immobilier](https://github.com/harounambaye/sama-ker-agent)** · agent IA qui traite les emails d'une agence immobilière, projet d'équipe
+Ma contribution : catalogue SQLite, serveur MCP (3 outils, 1 ressource), évaluation sur 15 emails de test.
+Résultat : taux de réussite de 53 % → 93 % entre le graphe de validation et le pipeline complet.
+`Python` `MCP` `LangGraph` `SQLite` `Claude API`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+### Back-end et API
 
-## Projets phares
+**[atelier-couture-api](https://github.com/fatoufall737/atelier-couture-api)** · API REST de gestion d'un atelier de couture
+Clients, commandes, mesures et suivi des statuts ; authentification JWT, mots de passe hachés avec Argon2, rôles.
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `JWT`
 
-| Projet | Ce que j'ai fait | Résultat |
-|---|---|---|
-| [Agent IA Sama Kër Immobilier](https://github.com/harounambaye/sama-ker-agent) (équipe de 3) | Catalogue SQLite, serveur MCP (outils + ressource), évaluation de l'agent sur 15 emails | Réussite passée de 8/15 à 14/15 avec le pipeline complet |
-| API atelier de couture | API REST : FastAPI, PostgreSQL, SQLAlchemy, Alembic, JWT, Argon2 | [lien à ajouter] |
-| Assistant vocal de FAQ (en cours) | Voix → Whisper → recherche par embeddings → réponse parlée, interface Gradio | [lien à ajouter] |
+### IA vocale
 
-## Formation
+**[assistant-vocal-faq](https://github.com/fatoufall737/assistant-vocal-faq)** · en cours
+Question posée à voix haute → transcription → recherche sémantique dans une FAQ → réponse parlée.
+`Whisper` `Sentence Transformers` `Edge TTS` `Gradio`
 
-- **Sonatel Academy** : filière Intelligence Artificielle (promo P1 IA)
-- **Université Cheikh Hamidou Kane** : Licence en développement d'applications web et mobile
+### Web et mobile
 
-## Me contacter
+**[nom-du-projet](https://github.com/fatoufall737/nom-du-projet)** · [description en une ligne]
+`[technologies]`
 
-- Email : [ton email]
-- Portfolio : bientôt
+---
+
+**Stack** · Python · FastAPI · PostgreSQL · SQLite · LangGraph · MCP · Whisper · Git · [technologies web et mobile]
+
+**Contact** · falltoufa109@gmail.com
